@@ -266,7 +266,7 @@ statements
   ;
 
 constructorInvocation
-  : userType callSuffix
+  : userType callSuffixLambdaless
   ;
 
 arrayAccess
